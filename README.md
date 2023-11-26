@@ -1,1 +1,1 @@
-# ximo99-SIM-topic3-ex1
+# Simulation. Topic 3, exercise 1: ropes.
